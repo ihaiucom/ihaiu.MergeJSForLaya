@@ -1,0 +1,14 @@
+E:\zengfeng\github\ihaiu.MergeJSForLaya\Bin\netcoreapp2.0\NLog.config
+E:\zengfeng\github\ihaiu.MergeJSForLaya\Bin\netcoreapp2.0\NLog.xsd
+E:\zengfeng\github\ihaiu.MergeJSForLaya\Bin\netcoreapp2.0\ReleaseLaya.deps.json
+E:\zengfeng\github\ihaiu.MergeJSForLaya\Bin\netcoreapp2.0\ReleaseLaya.runtimeconfig.json
+E:\zengfeng\github\ihaiu.MergeJSForLaya\Bin\netcoreapp2.0\ReleaseLaya.runtimeconfig.dev.json
+E:\zengfeng\github\ihaiu.MergeJSForLaya\Bin\netcoreapp2.0\ReleaseLaya.dll
+E:\zengfeng\github\ihaiu.MergeJSForLaya\ReleaseLaya\ReleaseLaya\obj\Debug\netcoreapp2.0\ReleaseLaya.csprojResolveAssemblyReference.cache
+E:\zengfeng\github\ihaiu.MergeJSForLaya\ReleaseLaya\ReleaseLaya\obj\Debug\netcoreapp2.0\ReleaseLaya.csproj.CoreCompileInputs.cache
+E:\zengfeng\github\ihaiu.MergeJSForLaya\ReleaseLaya\ReleaseLaya\obj\Debug\netcoreapp2.0\ReleaseLaya.AssemblyInfoInputs.cache
+E:\zengfeng\github\ihaiu.MergeJSForLaya\ReleaseLaya\ReleaseLaya\obj\Debug\netcoreapp2.0\ReleaseLaya.AssemblyInfo.cs
+E:\zengfeng\github\ihaiu.MergeJSForLaya\ReleaseLaya\ReleaseLaya\obj\Debug\netcoreapp2.0\ReleaseLaya.csproj.CopyComplete
+E:\zengfeng\github\ihaiu.MergeJSForLaya\Bin\netcoreapp2.0\ReleaseLaya.pdb
+E:\zengfeng\github\ihaiu.MergeJSForLaya\ReleaseLaya\ReleaseLaya\obj\Debug\netcoreapp2.0\ReleaseLaya.dll
+E:\zengfeng\github\ihaiu.MergeJSForLaya\ReleaseLaya\ReleaseLaya\obj\Debug\netcoreapp2.0\ReleaseLaya.pdb

@@ -1,0 +1,32 @@
+{
+  "minConfigs": [
+    {
+      "paths": [
+        "E:/wamp/www/GamePF/bin-cache/js-merge/GameLaunch.merge.js",
+        "E:/wamp/www/GamePF/bin-cache/js-merge/Game.merge.js"
+      ],
+      "savePath": "E:/wamp/www/GamePF/bin-cache/js-min/all.min.js"
+    },
+    {
+      "paths": [
+        "E:/wamp/www/GamePF/bin-cache/js-merge/GameLaunch.merge.js"
+      ],
+      "savePath": "E:/wamp/www/GamePF/bin-cache/js-min/GameLaunch.min.js"
+    },
+    {
+      "paths": [
+        "E:/wamp/www/GamePF/bin-cache/js-merge/Game.merge.js"
+      ],
+      "savePath": "E:/wamp/www/GamePF/bin-cache/js-min/Game.min.js"
+    }
+  ],
+  "autoEnd": false,
+  "cmd": "minjs",
+  "optionSetting": "./ReleaseLaya.json",
+  "layaProject": "E:/zengfeng/GamePF/Gidea-PF-Client/GamePF",
+  "binCache": "E:/wamp/www/GamePF/bin-cache",
+  "binRelease": "E:/wamp/www/GamePF/bin-cache",
+  "configOut":"E:/zengfeng/GamePF/ConfigOut/Client/Config",
+  "fguiCodeOut":"E:/zengfeng/GamePF/FairyGUICode/TS",
+  "minJsMunge": true
+}
