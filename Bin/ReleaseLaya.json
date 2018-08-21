@@ -2,8 +2,7 @@
   "minConfigs": [
     {
       "paths": [
-        "E:/wamp/www/GamePF/bin-cache/js-merge/GameLaunch.merge.js",
-        "E:/wamp/www/GamePF/bin-cache/js-merge/Game.merge.js"
+        "E:/wamp/www/GamePF/bin-cache/js-merge/all.merge.js"
       ],
       "savePath": "E:/wamp/www/GamePF/bin-cache/js-min/all.min.js"
     },

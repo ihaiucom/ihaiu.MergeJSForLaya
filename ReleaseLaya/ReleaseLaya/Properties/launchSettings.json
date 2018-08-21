@@ -1,8 +1,7 @@
 {
   "profiles": {
     "ReleaseLaya": {
-      "commandName": "Project",
-      "commandLineArgs": "--cmd=minjs"
+      "commandName": "Project"
     }
   }
 }

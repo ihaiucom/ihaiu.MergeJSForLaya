@@ -6,9 +6,10 @@ using System.IO;
 public class MergeJSData
 {
     public string name;
+    public string savePath;
     private Dictionary<string, bool> pathDict = new Dictionary<string, bool>();
     public List<string> paths = new List<string>();
-    private StringWriter sw;
+    public StringWriter sw;
 
     string replaceCode = @"var __extends = (this && this.__extends) || (function () {
     var extendStatics = Object.setPrototypeOf ||
@@ -126,6 +127,7 @@ public class MergeJSData
         string path = Setting.MergeRoot + "/" + name + ".merge.js";
         PathHelper.CheckPath(path);
         File.WriteAllText(path, sw.ToString());
+        this.savePath = path;
 
         path = Setting.MergeRoot + "/" + name + ".merge.txt";
         File.WriteAllText(path, String.Join("\r\n", paths));

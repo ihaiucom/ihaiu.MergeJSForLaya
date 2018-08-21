@@ -67,13 +67,20 @@ public class MergeJSManager : LayaProjectManager
 
     private void MergeJS()
     {
+        StringWriter sw = new StringWriter();
         bool isFirst = true;
         foreach(MergeJSData item in list)
         {
             item.Merge(isFirst);
             item.Save();
             isFirst = false;
+
+            sw.WriteLine(item.sw.ToString());
         }
+
+        string path = Setting.MergeRoot + "/all.merge.js";
+        File.WriteAllText(path, sw.ToString());
+
     }
 
     private void ReadNodeList(NodeList htmlNodes, int level = 0)

@@ -25,8 +25,8 @@ public  class MinJSManager
 
 
 
-        savePath = Setting.MinRoot + "/all.min.js";
-        Upload(files, savePath);
+        //savePath = Setting.MinRoot + "/all.min.js";
+        //Upload(files, savePath);
 
     }
 
