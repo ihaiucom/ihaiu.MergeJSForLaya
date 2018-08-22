@@ -11,10 +11,10 @@ public class CmdType
     public const string autominjs = "autominjs";
     // 压缩 js 读配置
     public const string minjs = "minjs";
-    // 生成index
-    public const string generateindex = "generateindex";
-    // 发布
-    public const string release = "release";
+    // 生成index-merge
+    public const string generateindexmerge = "generateindexmerge";
+    // 生成index-min
+    public const string generateindexmin = "generateindexmin";
 }
 
 public class Setting
@@ -80,7 +80,7 @@ public class Setting
     {
         get
         {
-            return Options.binRelease + "/js-min";
+            return Options.binCache + "/js-min";
         }
     }
 

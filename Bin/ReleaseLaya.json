@@ -24,7 +24,7 @@
   "optionSetting": "./ReleaseLaya.json",
   "layaProject": "E:/zengfeng/GamePF/Gidea-PF-Client/GamePF",
   "binCache": "E:/wamp/www/GamePF/bin-cache",
-  "binRelease": "E:/wamp/www/GamePF/bin-cache",
+  "binRelease": "E:/wamp/www/GamePF/develop",
   "configOut":"E:/zengfeng/GamePF/ConfigOut/Client/Config",
   "fguiCodeOut":"E:/zengfeng/GamePF/FairyGUICode/TS",
   "minJsMunge": true

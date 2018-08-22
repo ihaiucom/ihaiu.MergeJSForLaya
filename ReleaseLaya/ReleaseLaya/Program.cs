@@ -29,6 +29,14 @@ class Program
             case CmdType.autominjs:
                 new MinJSManager().AutoToMin();
                 break;
+            // 生成index-merge
+            case CmdType.generateindexmerge:
+                new GenerateReleaseIndexManager().Run(GenerateReleaseIndexManager.IndexType.Merge);
+                break;
+            // 生成index-min
+            case CmdType.generateindexmin:
+                new GenerateReleaseIndexManager().Run(GenerateReleaseIndexManager.IndexType.Min);
+                break;
         }
 
         Console.WriteLine("完成!");
